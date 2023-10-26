@@ -12,6 +12,8 @@ Firebase: https://console.firebase.google.com/u/1/project/subify-comments/overvi
 
 Sendbird: https://dashboard.sendbird.com/
 
+Jenkins: https://jenkins.subify.vip/
+
 
 List of other services
 
